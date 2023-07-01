@@ -1,0 +1,15 @@
+            Docker
+!! главная задача - Запустить приложение
+! Средство упаковки доставки и запуска приложения
+
+! docker image -готовое к запуску приложение со всеми зависимостями
+    реестр докер имэджей можно глянуть на docker.hub
+
+! docker контeйнер - работающее приложение на базе docker image
+
+Скачать докер https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-20-04
+
+Скачать докер композ https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-compose-on-ubuntu-20-04
+
+
+- docker build собрать свой образ

@@ -1,0 +1,14 @@
+moscow
+10
+spb
+15
+almaty
+20
+nur
+30
+kazan
+40
+deli
+50
+stambul
+60
